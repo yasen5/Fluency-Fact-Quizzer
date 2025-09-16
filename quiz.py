@@ -1,7 +1,7 @@
-import random
 import json
 import sys
 import os
+import random  # Import random for shuffling
 
 def load_facts(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
@@ -11,11 +11,11 @@ def quiz(facts):
     topics = list(facts.keys())
     categories = ["Who", "What", "Where", "When", "Why", "Significance"]
     
-    while True:
-        # Pick a random topic and category
-        topic = random.choice(topics)
-        category = random.choice(categories)
-        
+    # Generate all possible questions (topic, category pairs)
+    questions = [(topic, category) for topic in topics for category in categories]
+    random.shuffle(questions)  # Shuffle the questions to randomize the order
+    
+    for topic, category in questions:
         print(f"\n📘 {topic} — {category}:")
         
         if category.lower() == "when":
@@ -33,15 +33,11 @@ def quiz(facts):
             input("Your answer: ")  # user types but we don’t grade it automatically
             print(f"✅ Correct answer: {facts[topic].get(category, 'N/A')}")
 
+    print("\n🎉 You've completed all the questions!")
+
 if __name__ == "__main__":
     if os.path.exists("ff.json"):
-        json_file = "ff.json"
+        facts = load_facts("ff.json")
+        quiz(facts)
     else:
-        if len(sys.argv) != 2:
-            print("Usage: python quiz.py fluency_facts.json")
-            sys.exit(1)
-        
-        json_file = sys.argv[1]
-
-    facts = load_facts(json_file)
-    quiz(facts)
+        print("Error: 'ff.json' file not found.")
