@@ -7,9 +7,8 @@ def load_facts(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def quiz(facts):
+def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significance"]):
     topics = list(facts.keys())
-    categories = ["Who", "What", "Where", "When", "Why", "Significance"]
     
     # Generate all possible questions (topic, category pairs)
     questions = [(topic, category) for topic in topics for category in categories]
@@ -38,6 +37,8 @@ def quiz(facts):
 if __name__ == "__main__":
     if os.path.exists("ff.json"):
         facts = load_facts("ff.json")
+        if (len(sys.argv) > 1):
+            quiz(facts, [sys.argv[1]])
         quiz(facts)
     else:
         print("Error: 'ff.json' file not found.")
