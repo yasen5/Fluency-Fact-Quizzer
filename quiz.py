@@ -39,9 +39,10 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
             print(f"✅ Correct answer: {facts[topic].get(category, 'N/A')}")
 
         if (questionCounter >= 5):
+            print("\n=================================\nTake this chance to correct what you got wrong!\n=================================")
             intRange = len(wrongQuestions)
             for i in range(intRange):
-                question = wrongQuestions.pop()
+                question = wrongQuestions.pop(0)
                 print(question[0])
                 user_answer = input("Your answer: ")
                 if user_answer == str(question[1]):
