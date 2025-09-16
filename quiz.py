@@ -8,6 +8,8 @@ def load_facts(json_file):
         return json.load(f)
 
 def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significance"]):
+    questionCounter = 0
+    wrongQuestions = []
     topics = list(facts.keys())
     
     # Generate all possible questions (topic, category pairs)
@@ -15,7 +17,9 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
     random.shuffle(questions)  # Shuffle the questions to randomize the order
     
     for topic, category in questions:
-        print(f"\n📘 {topic} — {category}:")
+        questionCounter += 1
+        question = f"\n📘 {topic} — {category}:"
+        print(question)
         
         if category.lower() == "when":
             correct_answer = facts[topic].get(category, 'N/A')
@@ -25,12 +29,28 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
                     print("🎉 Correct!")
                     break
                 else:
+                    if (attempt == 1):
+                        wrongQuestions.append([question, correct_answer])
                     print("❌ Incorrect.")
             else:
                 print(f"✅ Correct answer: {correct_answer}")
         else:
             input("Your answer: ")  # user types but we don’t grade it automatically
             print(f"✅ Correct answer: {facts[topic].get(category, 'N/A')}")
+
+        if (questionCounter >= 5):
+            intRange = len(wrongQuestions)
+            for i in range(intRange):
+                question = wrongQuestions.pop()
+                print(question[0])
+                user_answer = input("Your answer: ")
+                if user_answer == str(question[1]):
+                    print("🎉 Correct!")
+                else:
+                    wrongQuestions.append(question)
+                    print("❌ Incorrect.")
+            questionCounter = 0
+                
 
     print("\n🎉 You've completed all the questions!")
 
