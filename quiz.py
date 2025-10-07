@@ -38,8 +38,9 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
             ask_question(question, correct_answer, wrongQuestions)
             
         else:
-            input("Your answer: ")  # user types but we don’t grade it automatically
-            print(f"✅ Correct answer: {facts[topic].get(category, 'N/A')}")
+            print(question)
+            input("Press 'Enter' to see the description: ")  # user types but we don’t grade it automatically
+            print(f"{facts[topic].get(category, 'N/A')}")
 
         if (questionCounter >= 5):
             intRange = len(wrongQuestions)
@@ -52,6 +53,7 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
                 
 
     print("\n🎉 You've completed all the questions!")
+    exit(0)
 
 if __name__ == "__main__":
     if os.path.exists("ff.json"):
