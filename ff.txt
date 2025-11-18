@@ -1,70 +1,71 @@
 Maize
 Who
 Aztecs, Mayans, Southwest tribes (Pueblo), spread to other tribes
+Why
+Gradual spread across North America from South America
 What
 Corn was part of the 3 sisters with beans and squash
 Where
 Mexico, American Southwest
 When
 6000bce-present
-Why
-Gradual spread across North America from South America
 Significance
 Allowed for settlements, led to food surpluses and thus to better health and larger populations
 
-Columbian Exchange:
+Columbian Exchange
 Who
 Mainly Spaniards initiated, affected Native Americans but also the Old World due to the plants brought back and the new fertile land being used to supply those crops.
+Why
+Arrival of spaniards and other explorers seeking wealth. 
 What
 Spaniards and other European explorers transferred deadly diseases to Native Americans which decimated their populations. They also brought domesticated animals like horses which, alongside new metal tools, revolutionized many Native Americans' ways of life. On the other side of the exchange, Europeans got new crops like the potato and tobacco for nutrition and recreation respectively. 
 Where
 Americas, Europe, China, Africa
 When
 1492-1500s
-Why
-Arrival of spaniards and other explorers seeking wealth. 
 Significance
-New crops greatly increased life expectancy of the average European, and new lands to farm flooded the market with crops like sugar.
+New crops greatly increased life expectancy of the average European, and new lands to farm flooded the market with crops like sugar. Disease decimated the Native population, and animals and meat changed the Native way of life
 
 Encomienda System
 Who
-Spaniards (conquistadors granted encomenderos), Native Americans in Spanish-controlled territories (Mexico, American SW)
+Spaniards (conquistadors granted encomenderos), Native Americans in Spanish-controlled territories (Mexico, American SW), Bartolomé de las Casas
+Why
+Exploitation of Native labor for profit. Spain also wanted more Spanish citizens in the Americas since they didn't have very good incentives for people to emigrate from Spain to the New World
 What
 Conquistadors granted encomiendas by the Crown, given rights to the labor of the indigenous people on that land (without their consent). In return Spanish were supposed to provide protection from other tribes, and convert indigenous people to Spanish culture and Catholicism. Limited in 1542 by the New Laws, which were supposed to free the indigenous people from enslavement and shift over to Africans. It also allowed indigenous people to settle internal disputes using their native customs, and they were granted protectors in court who could use Native traditions that didn't conflict with Catholicism.
 Where
 American SW (esp. New Mexico), Western coast of South America
 When
 1512-1720 (limited in 1542)
-Why
-Exploitation of Native labor for profit. Spain also wanted more Spanish citizens in the Americas since they didn't have very good incentives for people to emigrate from Spain to the New World
 Significance
 Led many Native Americans to die from disease (exposure to Europeans) and overworking. Led to resentment of Europeans and violent rebellions. Instilled ideas of race-based hierarchies that persisted after the collapse of the encomiendas.
+
 
 Enlightenment
 Who
 Hobbes, Locke, Montesquieu, Rousseau
+Why
+Continuation of the Scientific Revolution, printing press allowed easier spread of ideas
 What
 Thinkers moved away from religion and applied principles reason and methods of science to society
 Where
 Europe, then spread to the colonies
 When
 1600s-1700s
-Why
-Continuation of the Scientific Revolution
 Significance
 Challenged the church. Influenced American political leaders and documents (Declaration of Independence, Constitution, Bill of Rights). Basis of Republicanism and revolutions like the American Revolution.
 
 Virginia Company
 Who
 London investors, explorers
+Why
+Money
 What
 Joint stock company formed to establish Jamestown colony. Sent 10,000 colonists, 80% die. Settlers landed during winter and couldn't grow crops, had a bad makeup of poor people and rich elites, neither of which knew how to farm. Survived only with the help of the Wampanoags under chief Massasoit, who taught them how to fish and plant the corn. Eventually they got their act together but the soil still wasn't good enough for pure subsistence agriculture, so they shifted to growing tobacco which was very profitable. Eventually they shifted to sugar when that became even more profitable. Created self-governing body of the House of Burgesses, where planter elites could vote on things in the Lower House (which sometimes conflicted with the Crown-appointed governor once the company went bankrupt and it became a royal colony).
 Where
 Jamestown, Virginia
 When
 1607
-Why
-Money
 Significance
 1st successful British settlement in NA. As a corporation, empowered to govern themselves, established precedent of self gov't
 
@@ -72,232 +73,248 @@ Significance
 City upon a Hill
 Who
 John Winthrop, the Puritans
+Why
+Massachusetts Bay Colony was founded by Puritans and they wanted to convince others that their religion and way of life was better
 What
 A speech essentially saying that they had to set a good example since they would be watched by the whole world. If they were successful, others might be convinced to join them, but if they weren’t God would punish them
 Where
 On a ship, Arabella, going to the Boston, Massachusetts
 When
 1630
-Why
-Massachusetts Bay Colony was founded by Puritans and they wanted to convince others that their religion and way of life was better
 Significance
 Started the idea of American Exceptionalism
 
 Anne Hutchinson
 Who
 Anne Hutchinson, John Cotton (minister who inspired Anne but then sided against her when she became too radical), and Roger Williams
+Why
+The Massachusetts Church wanted to preserve gender roles and prevent Hutchinson from disrupting the dominant interpretation of Christianity that they relied on
 What
-Anne Hutchinson believed you could go to heaven if you had a direct connection with God, and she preached to both men and women, so she was exiled from Massachusetts Bay Colony. She founded Rhode Island with Roger Williams
+Anne Hutchinson believed you could go to heaven if you had a direct connection with God, and she preached to both men and women, so she was exiled from Massachusetts Bay Colony.
 Where
 Massachusetts Bay Colony
 When
 1637
-Why
-The Massachusetts Church wanted to preserve gender roles and prevent Hutchinson from disrupting the dominant interpretation of Christianity that they relied on
 Significance
 Early example of fighting against gender roles, church authority, helped 
 
 Navigation Acts
 Who
 Parliament, colonies
+Why
+Mercantilism
 What
 Codified mercantilism - the colonies were only allowed to trade with GB, on British ships, at British ports. No foreign merchants were allowed to trade in the colonies.
 Where
 British colonies
 When
 1651
-Why
-Mercantilism
 Significance
 Enumerated goods (sugar, rum, tobacco, rice) had to be shipped to GB. Economically benefitted GB and the colonies. Led to Salutary Neglect and then resentment towards the British when the Navigation Acts were enforced after the French and Indian War
 
 Covenant Chain
 Who
 Iroquois Confederacy, Colonies (especially New York)
+Why
+Secure Iroquois power, get New York more ability to trade
 What
 A series of alliances and trade agreements, giving the Iroquois tribal supremacy and New York favorable trading terms
 Where
 New York
 When
 1677
-Why
-Secure Iriquois power, get New York more ability to trade
 Significance
 Iroquois had an advantage over other tribes, and New York had an advantage over other colonies. Shows agency of using European powers for their benefit
 
 Pueblo Revolt
 Who
 Pueblo peoples in New Mexico (American SW), leader is Popé (Native American holy man), rebelled against Spanish settlers and priests
+Why
+Oppression of indigenous practices, bad working conditions, drought, attacks from other tribes
 What
 Due to oppression of indigenous practices (Franciscan Catholic priests didn't tolerate the survival of any part of Native culture) and execution/whipping of indigenous Holy people, resentment against Spaniards grew. When a drought year came in combination with raids from the Apache, this was enough to incite rebellion. Popé, one of those whipped by the Spanish governor, distributed knots which counted down the days until rebellion. The rebellion happened all over the Spanish colonies in New Mexico and 2k settlers were driven out, 20 priests killed. Eventually the Spanish return but are more tolerant of Native practices and dial back on the cruelties inflicted on Native Americans
 Where
 New Mexico / American SW
 When
 1680
-Why
-Oppression of indigenous practices, bad working conditions, drought, attacks from other tribes
 Significance
 Caused the Spanish to become more tolerant, realizing that they couldn't control the Native population that outnumbered them if they were too harsh
 
 Frame of Government (Pennsylvania)
 Who
 People of the Pennsylvania Colony, William Penn
+Why
+Penn was the goat
 What
 William Penn was quite progressive as a Quaker, had ideas of equality, created a legislature in which he had some influence but they acted more and more independently.
 Where
 Pennsylvania, middle colony
 When
 1682
-Why
-Penn was the goat
 Significance
 One of the prime examples of self-governance that would eventually influence the US constitution once the English Colonies won independence
 
 King Philip's (Metacom's) War
 Who
 Metacom, Wampanoags, New England settlers
+Why
+John Sassamon, Harvard-educated Native American assimilated into Colonial society, assassinated after he warned colonists of an incoming war. Colonists suspect Wampanoags, kill 3 random warriors from that tribe.
 What
 War begins, extremely brutal race war where both sides justified atrocities against non-combatants based on the other side's ancestry. Initially the Native Americans were doing well because they had gunpowder weapons, but once gunpower started to run out they got decimated by the settlers.
 Where
 New England
 When
-1675
-Why
-John Sassamon, Harvard-educated Native American assimilated into Colonial society, assassinated after he warned colonists of an incoming war. Colonists suspect Wampanoags, kill 3 random warriors from that tribe.
+1675-1676
 Significance
-40% of Native Americans dead, 5% of colonists dead. Effectively destroyed any chance of successful resistance. Created distrust between settlers and Native Americans, set the precedent for a lot of broken treaties in the future.
+40% of Native Americans dead, 5% of colonists dead. Effectively destroyed any chance of successful resistance. Created distrust between settlers and Native Americans, further exacerbated by a lot of broken treaties in the future.
 
 Salutary Neglect
 Who
 British, Colonists
+Why
+Britain wanted to keep the colonists happy, and so "subsidized" them by not collecting many taxes
 What
 The British tax collectors sometimes turned a blind eye to smuggling goods from other countries (goes against mercantilism) and allowed some tax evasion. This practice stopped after the conclusion of the French & Indian War, when Britain needed the money.
 Where
 North American Colonies
 When
 1700-1763
-Why
-Britian wanted to keep the colonists happy, and so "subsidized" them by not collecting many taxes
 Significance
 Colonists got used to evading British mercantilism and generally running their own tax programs, so resistance was fierce when the British actually tried enforcing direct taxes.
 
 First Great Awakening
 Who
 George Whitefield, Jonathan Edwards, young people
+Why
+Reaction against the decrease in religiousness following the scientific approaches introduced by the Enlightenment
 What
 Religious movement that emphasized the emotional aspects of religion. New denominations like Presbyterianism, etc. were formed
 Where
 Started in Europe but was mainly in North America
 When
 1730s-1760s
-Why
-Reaction against the decrease in religiousness following the scientific approaches introduced by the Englightenment
 Significance
 Opposite the spread of Enlightenment ideas. This was the first national movement. Questioned authority. Introduced slaves to Christianity
 
 French & Indian War
 Who
 British Colonists (esp. Northern), French in Canada and West of British Colonies Native Americans on both sides
+Why
+British colonists wanted land (Ohio River Valley) held by French settlers to the West, there were often skirmishes.
 What
-George Washington saw some French soldiers and shot at them, war starts around then. Native Americans chose sides, so the Huron allied with the French and the Iriquois allied with the British (not just these tribes though). The French started off winning but the British were able to overcome them by going into debt to fund the war in America (directed by William Pitt). There was a larger battle going on in Europe which continued after the conclusion of this war.
+George Washington saw some French soldiers and shot at them, war starts around then. Native Americans chose sides, so the Huron allied with the French and the Iroquois allied with the British (not just these tribes though). The French started off winning but the British were able to overcome them by going into debt to fund the war in America (directed by William Pitt). There was a larger battle going on in Europe which continued after the conclusion of this war.
 Where
 North America
 When
 1754-1763
-Why
-British colonists wanted land held by French settlers to the West, there were often skirmishes.
 Significance
 Colonists realize that Britain isn't invincible. The loss of Salutary Neglect and introduction of taxes due to British war debt lead to the revolution. Florida given to U.S., France gave Louisiana to Spain. Native Americans lost the ability to play Europeans off of each other for advantage.
 
 Plan of Union
 Who
-Ben Franklin, Albany Congress representatives, NAI?
+Ben Franklin, Albany Congress representatives
+Why
+French and Indian War, Franklin afraid of colonies getting picked at individually because of a lack of coordination.
 What
 Ben Franklin wanted the colonies to unite under a central colonial government to coordinate defense and trade. Both the colonies and the British government disliked the plan. Colonial governments feared losing their autonomy and power, and the British were afraid the colonists would get too much power?
 Where
 Albany, NY
 When
 1754
-Why
-French and Indian War
 Significance
 Showed diverse interests, sectionalism. The colonies weren’t yet ready to unify. Impact of the French and Indian War
 
 Pontiac’s Rebellion
 Who
 Pontiac (Ottawa), General Thomas Gage
+Why
+Pontiac and other tribes were angry about the outcome of the French and Indian War since the French had treated them better than the English/colonists did
 What
 Pontiac united tribes to oppose British expansion into the Ohio River Valley. Smallpox blankets were used by the colonists to quickly end the rebellion.
 Where
 Great Lakes region
 When
 1763
-Why
-Pontiac and other tribes were angry about the outcome of the French and Indian War since the French had treated them better than the English/colonists did
 Significance
 Shows the difference between French and English treatment of NAI. Led to the Proclamation of 1763. NAI lost agency, but this was an example of the viability of NAI alliances against Europeans. Contributed to deteriorating relations with Britain and the Colonies. Led to the formation of the Paxton Boys
 
 Stamp Act
 Who
 British Parliament, English Colonists, Sons of Liberty
+Why
+Britain in debt from 7 Years War
 What
 Required a tax stamp on all paper documents like newspapers and legal documents. This impacted all the colonists, not just the elites.
 Where
 English Colonies
 When
 1765
-Why
-Britain in debt from 7 Years War
 Significance
 Colonists believe unconstitutional -> "No taxation without representation." Colonists petition the King, Stamp Act Congress forms in 1765. Formation of the Sons of Liberty. Repealed in 1766 due to protests and boycotts. Results in Declaratory Act, saying that Parliament can make any law they want.
 
 Sons and Daughters of Liberty
 Who
 American colonists, Samuel Adams?
+Why
+They were angry about taxation without consent
 What
 The Sons of Liberty used threats, protests, and acts of violence (like the Boston Tea Party) to intimidate Loyalists and make their grievances clear to the British. The Daughters of Liberty supported boycotts, produced homemade products
 Where
 American Colonies
 When
 1765-1776
-Why
-They were angry about taxation without consent
 Significance
 Caused repeal of several tax laws (Stamp Act, Townshend Acts). The Boston Tea party convinced Britain that martial law was necessary to keep order.
 
 Boston Massacre
 Who
 British soldiers, Boston civilians
+Why
+Colonists resent standing army in peacetime. Frequent confrontations between people and soldiers
 What
-2,000 British troops stationed in Boston to enforce new Taxes (Townshend Acts for glass, paper, paint, tea). Crowd of civilians confront British soldiers, throw rocks and snowballs, get shot at and some die.
+2,000 British troops stationed in Boston to enforce new taxes (Townshend Acts for glass, paper, paint, tea). Crowd of civilians confront British soldiers, throw rocks and snowballs, get shot at and 5 die.
 Where
 English Colonies
 When
 1770
-Why
-Colonists resent standing army in peactime. Frequent confrontations between people and soldiers
 Significance
-Incited feelings of anger in 
+Incited feelings of anger in the colonies
+
+Intolerable Acts
+Who
+Parliament, colonists
+Why
+A response to the Boston Tea Party
+What
+Acts like the quartering act (soldiers could stay in civilian homes), admin of justice act (British in Massachusetts couldn’t be tried in Massachusetts, had to be in other colony or even GB), limiting Massachusett’s self-government, closing the Boston port
+Where
+Colonies
+When
+1774
+Significance
+To punish the colonies, especially Boston and Massachusetts, for things like the Boston Tea Party. This confirmed to the colonies that the government just wanted to subjugate and subdue them
 
 Republican Motherhood
 Who
-Abigail adams, middle class, upper class white women
+Abigail Adams, middle class, upper class white women
+Why
+To support the new democracy, inspired by Enlightenment philosophy (Wollstonecraft and Locke in particular)
 What
-New role prescribed for women to teach their sons the responsibilities of being in a democracy. Thus women had to become educated. Not as enlightened as wollsotnecraft's ideas, still rooted in patriarchy. Appealed to middle and upper class white women. 
+New role prescribed for women to teach their sons the responsibilities of being in a democracy. Thus women had to become educated. Not as enlightened as Wollstonecraft's ideas, still rooted in patriarchy. Appealed to middle and upper class white women. 
 Where
 Mostly in New England states
 When
 1770s-1830s
-Why
-To support the new democracy, inspired by Enlightenment philosophy (Wollstonecraft and Locke in particular)
 Significance
-Opened the door to education a little bit, allows them to organize and start advocating, separate spheres for men and women
+Opened the door to education a little bit, allowed women to organize and start advocating, but separate spheres for men and women
 
 Articles of Confederation
 Who
 12 delegates from American colonies
+Why
+Wanted to establish a federal government to tie the colonies together, but many state delegates were afraid of another British Crown situation and so made the government too weak to be effective.
 What
-New federal government couldn't impose taxes, couldn't hold an army because of that lack of taxation, couldn't regulate trade. Basically like a weaker European Union. No President, no federal court system, had a congress though with one representative per state.
+New federal government couldn't impose taxes, couldn't hold an army because of that lack of taxation, couldn't regulate trade (led to fighting between states). Can't enforce its own laws (Shays' Rebellion). Needed 9 of 13 representatives to enact laws, 13/13 needed to amend laws. No court system, no executive branch. Basically like a weaker European Union. No President, no federal court system, had a congress though with one representative per state.
 Effective with expansion: 
 NW Ordinance
 Could declare war
@@ -306,8 +323,468 @@ Could deliver mail, coin money, trade with NAI
 Where
 American Colonies
 When
-1776
-Why
-Wanted to establish a federal government to tie the colonies together, but many state delegates were afraid of another British Crown situation and so made the government too weak to be effective.
+1777-1789
 Significance
 Made the delegates realize that a stronger federal government would be required to effectively rule the colonies
+
+NorthWest Ordinance of 1787
+Who
+Congress
+Why
+The colonists wanted to expand into the land they had won from the Revolutionary War
+What
+Declared that new territories would be added with the same rights as the other states. Banned slavery in the new territories. 
+Where
+Northwest territories (now Ohio, Michigan, Wisconsin, Minnesota, and Indiana)
+When
+1787
+Significance
+This was the biggest success of the Articles of Confederation. It gave equal rights to the new states and formalized/organized the process of adding new states
+
+Shays' Rebellion
+Who
+Daniel Shays, poor massachusetts farmer, served in the Revolution (Bunker Hill, Saratoga), honored by Marquis de Lafayette
+Why
+During the war, the state went into debt, there was little paper money and very little specie, barter economy developed, state governments teetering on bankruptcy, they choose to do taxes to make up debt. Many people who fought in the war were taken to debtors prison. Could lose land, which was a decline in status because you needed land to vote. Wave of farm bankruptcies in Massachusetts. Most political officials in Massachusetts were in East Massachusetts and were relatively affluent traders who ignored these problems.
+What
+Had been tradition to do demonstrations when peoples' rights were violated. Delegations were held to see what demands they could make of the establishment, the government ignored them. They made lists of grievances about high salary of governor, high court costs, taxes. Shays' Rebellion wasn't a big surprise when it happened. 700 unpaid veterans close down courts, numbers grow to 1200. They demand:
+Calling for printing of more $
+They want judges to be elected not appointed (so that judges can be more answerable to the people so they can't put debtors in jail)
+Broke into jails and released debtors.
+Federal government is powerless
+State militia is called up funded by Bostononian businessmen to respond to rebellion, they succeed, Shays flees and many sentenced to death, Samuel Adams wanted mass executions, GW and John Hancock wanted leniency. Last minute pardons for most, only 2 were hanged for looting.
+Where
+Massachusetts
+When
+1787
+Significance
+Hancock passed moratorium on debt, taxes but they were short lived. Fed government couldn't regulate trade which made trade across states really bad (currency exchanges, tariffs) nobody working together as one unit.
+
+Great Compromise
+Who
+Congress, small states vs. big states, Madison, Sherman
+Why
+Small states and big states both want as many votes as possible. Small states wanted everyone to have equal representation, fear of being a minority dominated by the majority. Larger states feel that votes should be based purely on population. Really need all the states to agree on this to get the Constitution ratified.
+What
+Two main plans proposed Eventually a plan is accepted where there is one House of Representatives based on population, and there is a Senate where all states get 2 senators. 
+Where
+Philadelphia
+When
+1787
+Significance
+One of the many compromises that needed to be made in order to get the Constitution ratified. Balances the power of big and small states, shows the ability of the states to compromise
+
+Federalist Papers
+Who
+John Jay, Alexander Hamilton, James Madison (before he became less Federalist)
+Why
+To convince New York that stronger government is necessary to hold the nation together and create a functioning republic. This would give them the one extra vote they need to get the Constitution passed and grant more powers to the federal government.
+What
+Papers written by these 3 under the pseudonym of Publius. Famous ones are:
+#10 - Argues that having a larger republic means that factionalism won't occur as easily, because candidates can't appeal to only one region
+#51 - Discusses the importance of checks and balances
+Where
+U.S.
+When
+1788
+Significance
+Addressed fears about the constitution and balance of power. They became an important guide for interpreting the Constitution through understanding the intent
+
+Hamilton’s Economic Plan
+Who
+Hamilton, George Washington
+Why
+To strengthen the central government, build credit, and encourage manufacturing
+What
+Set of measures establishing a national bank, assuming state debt, and encouraging manufacturing through excise taxes and protective tariffs.
+Where
+U.S.
+When
+1790
+Significance
+Became the foundation of a strong role of the federal government in the economy
+
+Jay’s Treaty
+Who
+John Jay, British government, US government
+Why
+To avoid getting dragged into the war between the French and British, and to settle some things left over from the Treaty of Paris of 1783
+What
+Great Britain agreed to withdraw from the Northwest territory, to pay the Americans for the ships they had impressed into their military, and allow limited trading in the Caribbean. The Americans paid their pre-war debts. Britain also got “most favored nation” status. This was opposed by JDRs
+Where
+US
+When
+1794
+Significance
+Passed by a very slim margin. Required the passage of the Pinckney Treaty to appease the Jeffersonians. Leads to the XYZ affair
+
+Washington’s Farewell Address
+Who
+George Washington
+Why
+Warn the nation to watch out for threats to democracy as GW left office due to health issues and the stress of presidency.
+What
+Letter written by GW at the end of his second term. It encouraged the preservation of the union, trade with foreign countries, and discouraged against factions and permanent alliances.
+Where
+US
+When
+1796
+Significance
+Warning and inspiration for future generations. Influenced US foreign policy (US avoided permanent alliances for the most part) until the end of the 19th century. It set the precedent for two terms of presidency, which was only broken by FDR
+
+XYZ Affair
+Who
+John Adams, American and French diplomats
+Why
+Caused by Jay’s Treaty
+What
+American peace delegation wanted to meet French delegates (X, Y, and Z in Adams’ initial communication with Congress) but they demanded $250k just in order to open negotiations, so the Americans refused.
+Where
+United States, France
+When
+1797-1798
+Significance
+Resulted in the Quasi War. Raised Anti-French sentiment, resulting in the Alien and Sedition Acts and the establishment of the Department of the Navy to oversee naval affairs
+
+
+Alien and Sedition Acts
+Who
+John Adams, Congress, Thomas Jefferson
+Why
+There was outcry against Adams and the Federalists
+What
+An act that repressed freedom of the press, jailed newspaper editors, and created harsher requirements for immigrants to become citizens. The goal was to minimize the JDR’s power. It was removed
+Where
+US
+When
+1798-1801
+Significance
+Violated 1st Amendment but the Federalist party controlled executive and legislative branches, and there was no judicial review so the judicial branch didn’t have all that much power. Led to experimentation with the compact theory and nullification as a response.
+
+Second Great Awakening
+Who
+Charles Finney, Peter Cartwright, Richard Allen
+Why
+People wanted religion + society was becoming more connected, people felt responsible for improving the moral standard of their whole society
+What
+Religious revival starting in NY, spread south to slaves and white southerners. Rejection of Calvinism, increasing in Baptist & Methodist churches. Women allowed to participate more fully than in 1st GA. Slaves attend same religious occasions as Whites, message of emancipation. Free Blacks like Richard Allen from Philadelphia set up churches.
+Where
+Started in Burned Over District, spread south and west.
+When
+1790s-1830s
+Significance
+Emphasis on individual piety like the first Great Awakening, moral responsibility to improve society. Increased literacy, esp in South where religion hadn't been the primary motivation for immigration so they hadn't educated kids to read the bible. Created atmosphere for reform: Temperance, improved Asylums, Education, Utopias, Women's Movements, Abolition. Churches founded in the Northeast by free Blacks were centers of education and medicine that were denied by Whites.
+
+Market Revolution
+Who
+Entrepreneurs, Lowell, Slater
+Why
+Spread of the Industrial Revolution
+What
+Rapid development in transportation, commercialization, and industrialization. Includes development of factory system, interchangeable parts, employees working by the clock. Women more common in the workplace, but under exploitative pay and conditions.
+Where
+US, especially the North
+When
+1800-1840
+Significance
+Industrial regionalization (North vs South), shift towards paid labor, factory work. More opportunity for women in industrial workforce
+
+Marbury v Madison
+Who
+Marbury, John Adams, James Madison, John Marshall
+Why
+To establish judicial review, power of federal courts to void acts of Congress in conflict with Constitution (Judicial branch still cannot enforce them, that's the role of the president). To give the judicial branch more power without angering Jefferson
+What
+Midnight judges granted by John Adams under Judiciary Act of congress that gives him the authority to appoint the federal judges. Madison is secretary of state and stalls the judgeships. Marbury sues, says that he is owed the job, but John Marshall decides to say that the Judiciary Act was unconstitutional (even though he was a federalist, he won the larger battle in giving the judiciary branch more power).
+Where
+US
+When
+1803 (Marshall Court)
+Significance
+Established role of the Supreme Court. Judicial review courts have a duty to say if laws are constitutional or not but not to enforce them
+
+
+American System
+Who
+Henry Clay
+Why
+To make America less reliant on foreign made goods (reliance shown by Embargo, War of 1812)
+What
+His 3 point plan was to renew the national bank, establish tariffs, and have the federal government finance roads and canals. The last part got vetoed but the others passed. He wanted to make America less reliant on foreign goods
+Where
+US
+When
+1816-1830
+Significance
+Government sponsored the development of the economy by protecting new industries and reducing dependence on foreign-made goods. It was important for infrastructure. Increased sectionalism (the North and West benefited more). Furthered the ideas of Hamilton’s Economic Plan
+
+
+Missouri Compromise
+Who
+Slave states, Free states, Henry Clay
+Why
+States wanted to expand to the West. States wanted to have a secure balance of slave/free states, otherwise thought that one side would dominate the other, North wanted slavery to end but also thought South would secede in this situation.
+What
+Missouri was added as a slave state, and to keep the balance of pro-/anti-slavery representatives in the Senate, Maine was added as a free state. They also established the Missouri compromise line (36’30), where states below the line would be slave states and states above the line (with the exception of Missouri) would be free states
+Where
+United States, Missouri, Maine, 36’30 line
+When
+1820
+Significance
+The Senate remained balanced between slave and free states. No solution was made to end slavery, bringing more people to the abolition movement. Leads to more sectionalism
+
+Monroe Doctrine
+Who
+John Quincy Adams, James Monroe
+Why
+Spanish and Russians were trying to take more control in the Americas
+What
+Statement issued saying that Western Hemisphere was closed to European intervention and colonization in return for the US staying out of European affairs
+Where
+US
+When
+1823
+Significance
+They could not enforce it, so Britain’s navy had to enforce it. It wasn’t utilized for decades, but showed the US participating in global affairs
+
+
+Second American Party System
+Who
+Andrew Jackson, Henry Clay, Democrat Party, Whig Party
+Why
+Many people didn’t like Jackson’s anti-spending policies and supported Henry Clay’s American System
+What
+The party system during the Jacksonian era. Lines were drawn between anti-bank Jacksonians and pro-American System Whigs. There was high voter interest and very close elections
+Where
+United States
+When
+1828-1854
+Significance
+Shaped political, social, and cultural attitudes during the era of Jacksonian Democracy. Represented a change in party politics (use of conventions, having the executive as the head of the party, universal suffrage for white men, spoils system)
+
+Indian Removal Act
+Who
+AJ, Congress, Marshall Court, Southern Civilized Tribes
+Why
+Andrew Jackson was for the "common man," many whites wanted to move westward into Native American territory, either looking for more freedom or trying to find more farmable land (after they destroyed the soil with tobacco/cotton). Racism against Native Americans, viewed them as uncivilized, even those who had assimilated and switched purely to agriculture and manufacture. 
+What
+Several Cherokee members agree to the Treaty of New Echota, payment in exchange for moving west. Other members including Chief John Ross strongly oppose this decision but US Gov ignores their protests. All 5 Civilized Tribes (Cherokee, Choctaw, Chickasaw, Seminole, Creek) forced west over time, because even though Judicial Review determined that states could not force eviction of the Cherokee because they were a sovereign nation, Jackson refused to enforce this decision. The army was sent in, and all of the tribes were forced to go on the Trail of Tears, with many dying along the way.
+Where
+George, Alabama, Mississippi, Florida → Oklahoma
+When
+1830
+Significance
+Continued the trend since the arrival of white settlers of Native Americans being pushed off of their land. Exemplified the Democrats' strong desire for westward expansion. Seminole resistance in Florida managed to stave off settlers until 1842, one of the last examples of successful Native American resistance.
+
+Nat Turner’s Rebellion
+Who
+Nat Turner
+Why
+Slavery?
+What
+Armed rebellion, killed 57 white people, including children, as retribution for slavery
+Where
+Virginia
+When
+1831
+Significance
+Destroyed myth of happy, docile slaves. Led to harsher punishments toward slaves, slave codes controlling movement, access to education.  Hardens views on both sides, hastening Civil War
+
+Nullification Crisis
+Who
+Andrew Jackson, South Carolina, John C. Calhoun
+Why
+Previous experiment in nullification with the Kentucky & Virginia Resolutions, right of state to nullify federal laws, but the supreme court rules against this idea. Sectional crisis:
+Power of the Fed Gov't vs state gov't
+Economic needs of different regions (North wants tariffs, South doesn't)
+South getting consistently outvoted by the North & West
+Debate over role of government in the economy
+Political power in Congress
+Major Sectional Leaders: Daniel Webster for North, John C Calhoun for South, Henry Clay for West
+South Carolina struggling economically for 15 years
+What
+John C. Calhoun wants to assert sovereignty of South Carolina, go against Tariffs, tries to convince Jackson. Jackson refuses because it would threaten his power, dismisses Calhoun.
+SC calls up militia and threatens to secede from the Union if Jackson used force
+Jackson uses Force Bill from Congress, authorizes Federal government to collect tariff with military)
+Clay does the Tariff Act of 1833 as compromise, says that each year the tariff will lower, South Carolina backs down
+Where
+US
+When
+1832-1833
+Significance
+Foreshadows sectionalism, could have been the civil war starting point if not for Clay's intervention, Jackson defending his presidential power
+
+
+Bank War
+Who
+Andrew Jackson, Nicholas Biddle, Henry Clay
+Why
+Andrew Jackson wanted to maintain his power, disliked powerful Northern  bankers having influence (he liked to appeal to the "common man" against the elites) (Farmers tend to owe money to banks due to boom/bust cycles, don't trust them), believed it wasn't strictly constitutional, undemocratic (Bank leaders not elected)
+What
+AJ vetoed the renewal of the national bank. Biddle tries to prove the worth of the national bank by being more mean, just backfires and makes Jackson look correct 
+Where
+United States
+When
+1832
+Significance
+Andrew Jackson asserting his power with vetoes. No more national bank until 1913, U.S. on much shakier grounds.
+
+
+Seneca Falls Convention
+Who
+Lucretia Mott, Elizabeth Cady Stanton
+Why
+Women's rights were severely limited: they lost all of their property when they married and they were denied the right to vote.
+What
+Made the Declaration of Sentiments, modeled after the declaration of independence, pointed out the many rights denied to women. Some were skeptical of pushing for suffrage, but Frederick Douglass convinced them that it was the best way to push for further rights.
+Where
+Seneca Falls, NY
+When
+1848
+Significance
+Kicked off the women's rights movement. Part of larger atmosphere of reform, part response to market revolution (women accepted into workplace, need more protection from exploitative conditions, want to be able to manage their own income), part response to 2nd Great Awakening (ideas of reforming society). 
+
+Manifest Destiny
+Who
+American settlers, Native Americans, Mexicans
+Why
+To gain more arable land for growing cash crops like tobacco and cotton, and expand slavery after the Missouri Compromise made it difficult for Southern states to get more land.
+What
+Many people expressed their belief that Whites deserved to dominate the North American continent, whether through demonstrating superiority in their economy and way of life, or through violent conquest.
+Where
+California, Utah, New Mexico, Texas
+When
+1845-1900
+Significance
+Set up the U.S. to be economically powerful with railroads connecting the East and West and U.S. ports existing on both coasts
+
+Mexican-American War
+Who
+Santa Anna, Zachary Taylor, James Polk, Irish & German immigrants, Mexicans
+Why
+Same as Manifest Destiny
+What
+Zachary Taylor, at command of James Polk, incites conflict with Mexico. U.S. goes to war, heavy casualties due to disease, desertion rampant (esp. among immigrants, saw the horrors and left or even switched sides). Many accusations of unjust war, but even antiwar Whigs don't oppose it strongly enough to stop voting to continue it. Americans commit atrocities, shell civilians and commit sexual violence, eventually capture Mexico City and force the sale of California, New Mexico, Nevada, Colorado, Utah, Arizona
+Where
+New Mexico, California, Nevada, Colorado, Utah, Arizona, Texas, Mexico City
+When
+1846-1848
+Significance
+Same as Manifest destiny + revealed that Americans wouldn't be automatically patriotic if the war was unjust, exposed powerful voices like Abraham Lincoln and Frederick Douglas
+
+Know-Nothing Party
+Who
+Middle, working class, "Conscience Whigs"
+Why
+Feared job competition
+What
+A third political party (although Whig power was already waning), semi-secret organization, strongly opposed immigrants (esp. Chinese) and Catholics. Wanted 21 year naturalization process, forced deportation of beggars & criminals, mandatory bible reading in schools, elimination of all Catholics from public office. Had some success getting elected but didn't get legislation. Dissipated with the arrival of the Republican Party 1854
+Where
+US
+When
+Late 1840s-early 1850s
+Significance
+Kind of a 3rd political party, even though they didn't last long, their sentiments can be seen in the harsh anti-Immigration policies, also the KKK
+
+Compromise of 1850
+Who
+Henry Clay
+Why
+Preservation of the Union over the issue of slavery
+What
+Five things:
+California admitted as free state
+Utah, New Mexico given popular sovereignty for slavery (North not too       concerned, land isn't great for farming anyway
+Texas got $10M to give up its land claims in New Mexico
+Fugitive slave act, allowed federal agents to forcibly relocate African Americans suspected of being escaped slaves
+Slave trade ended in Washington D.C., slavery itself persists
+Where
+U.S.
+When
+1850
+Significance
+Last attempt made at real compromise, pure downhill from here. Fugitive slave act a big mistake, put the brutality of slavery in the minds of even moderate Northerners and turned them abolitionist once people started getting dragged through the streets. Also made the Northerners dissatisfied with the government, believed it was too sympathetic to slavery
+
+Kansas-Nebraska Act
+Who
+Stephen Douglas, John Calhoun, Henry Clay, Daniel Webster
+Why
+Stephen Douglas wanted to build some railroad that out west that would link his property holdings to strong transportation infrastructure. Needed population in the Western territories to get this to happen, needed an event that would cause people to rush in.
+What
+Douglas somehow managed to get this through, it violated the Missouri Compromise because it allowed two more slave states in territory above the 36th parallel. Unlike NM and Utah these areas were actually good for farming, so there was the perceived threat of slavery. People rushed in and things even got violent in Bleeding Kansas. Both states admitted as free anyway because the pro-slavery constitution for Kansas was rejected.
+Where
+Kansas, Nebraska
+When
+1854
+Significance
+Showed that the Union had been brought to its breaking point, further broke down abolitionist trust in the government to contain slavery, split the Whig and Democrat parties down geographical lines and shifted everything to be about slavery.
+
+Republican Party
+Who
+Abraham Lincoln, Northern Whigs & Democrats
+Why
+Appeared over the issue of slavery, prompted by the Kansas-Nebraska Act disaster in 1854. 
+What
+New political party that opposed slavery and the southern democrats
+Where
+Northeast
+When
+1854
+Significance
+Elected Lincoln, led reconstruction post-war,
+
+Dred Scott Decision
+Who
+Supreme Court (Judge Taney), Dred Scott obv
+Why
+Taney extremely racist ig?
+What
+Dred Scott sues for freedom after being brought to a free state, Taney decided that African Americans could never be citizens, violating the usual situation in Northern states, and thus making it so that Scott didn't even have the right to sue for his freedom. He also stated that enslaved people were property and thus the constitution barred any state from banning it (Missouri Compromise struck down).
+Where
+Supreme Court
+When
+1857
+Significance
+One of the major reasons why the civil war occurred, major distrust between factions that each thought the other was taking over the government, abolitionists thought that if Southern slaveowners weren't stopped then and there, their influence would spread throughout the government
+
+Emancipation Proclamation
+Who
+Lincoln, Confederate States
+Why
+To get African American soldiers in the army, make the war about slavery so that European countries couldn't ally with Confederates even though they depended on Southern cotton.
+What
+Happened following the Battle of Antietam (1862) which gave Lincoln a breather after the string of Union losses to issue his proclamation. Stated that all slaves in the Southern territories were property of people in rebellion and thus could be confiscated and freed. Didn't free anyone immediately, also held no promises for emancipation in the 4 border states that held slaves but weren't in rebellion, Lincoln didn't feel like he had the constitutional right to take property from people he wasn't at war with.
+Where
+U.S.
+When
+1862-1863
+Significance
+Finally got some abolitionist support (although they criticized how it didn't ban slavery outright), got 200K African American soldiers over time to join the Union Army, part of the Union advantage over the South. 
+
+Homestead Act
+Who
+Republican Congress, Lincoln
+Why
+To fill in the territories recently acquired during Westward Expansion.
+What
+Offered 160 acres for basically nothing, under the condition that people would develop the land and live there for 5 years. However many people who took the deal were from lower classes trying to escape their situation and weren't prepared for the farming lifestyle, so they left their claims early. Much of the land fell to land speculators and railroad companies.
+Where
+West
+When
+1862
+Significance
+Made the Civil War at least partly about Western Expansion, army was employed against Native Americans. Also filled out some new territories, important for future elections
+
+Gettysburg Address
+Who
+Lincoln
+Why
+Boost morale
+What
+Lincoln talks about how preserving the Union is of the utmost importance, cannot let the exemplary democratic nation founded on liberty fall. Also mentions that it is a fight for equality "all men are created equal." States that the soldiers died doing the right thing and that they should be honored
+Where
+Gettysburg, PA
+When
+1863
+Significance
+Establishes the main issues of the Civil War, why it is so important that the North should win, otherwise it proves that democracies cannot last because secession will break them apart.

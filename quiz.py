@@ -34,7 +34,7 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
         question = f"\n📘 {topic} — {category}:"
         
         if category.lower() == "when":
-            correct_answer = facts[topic].get(category, 'N/A')
+            correct_answer = facts[topic].get(category, "Couldn't find for topic " + topic)
             ask_question(question, correct_answer, wrongQuestions)
             
         else:
