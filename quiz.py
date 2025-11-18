@@ -1,12 +1,17 @@
 import json
+import re
 import sys
 import os
-import random  # Import random for shuffling
+import random
+
+def sanitize(s: str) -> str:
+    s = re.sub(r'[^0-9-]', '', str(s))  # keep digits and hyphens
+    return s[:9]  # first 9 characters
 
 def ask_question(question, answer: str, wrongQuestions):
     print(question)
     response = input("Your answer: ")
-    if answer.replace("s", "") == str(response).replace("s", ""):
+    if sanitize(answer) == str(response).replace("s", ""):
         print("🎉 Correct!")
     elif str(response) in answer:
         print("Please remember to add an end date")
