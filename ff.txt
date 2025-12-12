@@ -662,7 +662,7 @@ Mexican-American War
 Who
 Santa Anna, Zachary Taylor, James Polk, Irish & German immigrants, Mexicans
 Why
-Same as Manifest Destiny
+Manifest Destiny Same as Manifest Destiny
 What
 Zachary Taylor, at command of James Polk, incites conflict with Mexico. U.S. goes to war, heavy casualties due to disease, desertion rampant (esp. among immigrants, saw the horrors and left or even switched sides). Many accusations of unjust war, but even antiwar Whigs don't oppose it strongly enough to stop voting to continue it. Americans commit atrocities, shell civilians and commit sexual violence, eventually capture Mexico City and force the sale of California, New Mexico, Nevada, Colorado, Utah, Arizona
 Where
@@ -773,7 +773,7 @@ West
 When
 1862
 Significance
-Made the Civil War at least partly about Western Expansion, army was employed against Native Americans. Also filled out some new territories, important for future elections
+Made the Civil War at least partly about Western Expansion, army was employed against Native Americans. Also filled out some new territories, important for future elections. Since it was passed by the North, anyone could take it including single women and African Americans
 
 Gettysburg Address
 Who
@@ -788,3 +788,242 @@ When
 1863
 Significance
 Establishes the main issues of the Civil War, why it is so important that the North should win, otherwise it proves that democracies cannot last because secession will break them apart.
+
+Reconstruction Amendments
+Who
+Radical Republicans, former slaves
+Why
+Transform the South to be more like the north
+What
+13th (1865): Abolished slavery, 14th (1868): Birthright citizenship, equal due process of law, 15th (1870): Banned barring voting based on race, gender, etc. Got bypassed 
+Where
+Whole U.S., but mostly South
+When
+1865-1870
+Significance
+Finally outlawed discrimination in the constitution, even if it wasn't really followed in the South due to Jim Crow. Federal gov responsible for protecting votes, not states
+
+Sharecropping
+Who
+Freed slaves, southern landowners
+Why
+Retain slavery and previous economic system in the South
+What
+African Americans were landless, offered jobs by White racist landowners, didn't have many options so the landowners were able to sell them tools at high prices and interest rates which kept them perpetually in debt, so they had to keep promising more and more of their share of crops to the landowner.
+Where
+South
+When
+Late 1860s-1940s
+Significance
+Meant that the promise of freedom for slaves wasn't really real, many African Americans became disillusioned because they couldn't escape their lower economic tier. Caused many to move west where they could get land under the Homestead Act.
+
+Jim Crow Laws / Black Codes
+Who
+Former confederates, 
+Why
+Maintain White political and social control in the South
+What
+Segregation and laws like the "grandfather clause" denied equal opportunity and voting rights respectively. African Americans kept to menial labor like sharecropping and clothes washing
+Where
+South
+When
+1880s-1968
+Significance
+Kept another century of white oppression. Fear through groups like the KKK formed to prevent African Americans from rising up to claim their rights
+
+Compromise of 1877
+Who
+Rutherford Hayes, Sam Tilden
+Why
+South wants less supervision, North wants presidency
+What
+Secret conversations held, election handed to Hayes but North agrees to pull out troops from the South.
+Where
+U.S. presidency, South
+When
+1877
+Significance
+"Great Betrayal" of the cause of reconstruction, North wasn't willing to continue enforcing reconstruction for reals and just let African Americans fall into the hands of the former Confederates. End of republican dominance in the government, they are now actually contested for the presidency / seats in congress.
+
+Gilded Age
+Who
+Upper class, wage laborers, farmers, Mark Twain, Rockefeller, Carnegie
+Why
+Rise of American industry, lack of proper regulation
+What
+Companies bought up competitors (horizontal integration) and bought up their suppliers (vertical integration). Lead to monopolies like Rockefeller controlling 90% of the oil. Railroad monopolies especially restricted the profits of farmers and sank them into debt.
+Where
+U.S.
+When
+1860-1900
+Significance
+Modern cities, horrible conditions for tenement laborers, child labor common, monopolies allow further exploitation. Backlash on this leads to the rise of populist parties that take advantage of workers' frustration to get a fair portion of the vote.
+
+Gospel of Wealth
+Who
+Andrew Cargnegie
+Why
+Justify his massive wealth and mistreatment of workers, why it is okay to not regulate anything
+What
+Heavy Social Darwinist influences, idea that the fittest will rise to the top and not only deserve their wealth, but are also the only ones capable of properly handling that wealth. He therefore thinks that after accumulating all his money, simply giving some of it away would make up for the horrific conditions in his factories.
+Where
+U.S.
+When
+1889
+Significance
+Influences Rockefeller and Ford. Wanted to promote Laissez Faire economics, make people trust the wealthy to handle wealth rather than using progressive taxation to move it about. "trickle down" economics.
+
+Political Machines
+Who
+Boss Tweed, Thomas Nast
+Why
+People want $$$
+What
+Exploitation of the lack of real regulation in the Gilded Age, where government officials became corrupt and big business profitted. Example: Tweed took advantage of the Irish vote to put himself in power, and then siphoned massive amounts of money for himself. Spoils system on a larger scale: gave jobs to immigrants when he got into office.
+Where
+NY, Chicago, Philadelphia
+When
+1830s-1930
+Significance
+Reduced actual government competency, allowed workers' rights to be ignored. Invoked criticism of the government, led to the Pendleton Act of 1883 which enforced a 📚meritocracy 📚. 
+
+The New South
+Who
+Former Confederates, African Americans
+Why
+Wanted to diversify the economy to get it to move away from the agrarianism that had been propped up by slavery. Wanted the North to think that everything was fixed and they could pull out of the South and there would deeeeeeeefinitely be no racism.
+What
+Some places like Alabama started promoting industry, which thrived off of cheap labor (obv. not that good for laborers). Got some Northern investment. Tried to say that racism wasn't that bad in the South anymore, that schools had successfully integrated African Americans into the economy. Reality: sharecropping + segregation keeps African Americans in a lower economic tier
+Where
+Duh
+When
+1887
+Significance
+Kept the South in much the same condition, persisted economic, political, and social troubles.
+
+Dawes Severalty Act
+Who
+Congress, Grover Cleveland, Henry Dawes (senator)
+Why
+Supposedly for assimilation of Native Americans, converting them to farming culture
+What
+Split up traditionally communal lands into individual plots. This divided the tribe and caused disunity, after which Whites were able to buy up land and further reduce tribe resources. Also the land sucked for farming, and NAs who had been hunter/gatherers were inexperienced in farming, so they struggled and lost more land as a result of predatory economic practices.
+Where
+NA Reservations
+When
+1887
+Significance
+Further continued the trend of decreasing tribal power, cultural extermination. Led to adoption of policies like boarding schools (Carlisle)
+
+Wounded Knee Massacre
+Who
+Sitting Bull
+Why
+U.S. military afraid of any possible coordination between the Native Americans that might result in an uprising, esp. the Ghost Dance
+What
+Attempted arrest of Sitting Bull, a chieftain, for participating in Ghost Dance movement turns into a murder. Then the army was confiscating weapons from other Dancers and ended up just massacring a bunch of noncombatants including unarmed women and children.
+Where
+South Dakota
+When
+1890
+Significance
+Ended the Ghost Dance movement.
+
+Populist Party
+Who
+William Bryan, farmers, Weaver
+Why
+Address the suffering of farmers under the hands of railroad monopolies and predatory bank loans.
+What
+Wanted bimetallism to spur rapid inflation and erase debt, wanted higher regulation of industry (gov ownership of RR and bank), progressive income tax, 8-hour work day (to get the laborers on their side), subtreasuries, 
+Where
+Western states
+When
+1890s
+Significance
+Farmers getting recognized in politics, even though they are unsuccessful in the Gilded Age, they set the stage for more progressive reform.
+
+Interstate Commerce Commission
+Who
+Congress, farmers
+Why
+Farmers wanted railroads to stop charging exorbitant fees using their monopolies. Also wanted to eliminate rate discrimination?
+What
+Agency created to regulate railroads to lower the rates and make them more even
+Where
+U.S.
+When
+1887-1895
+Significance
+Federal gov claiming more power over industry. Even though it gets revoked, the ICC represents the beginning of the end of absolute capitalism and the gilded age.
+
+American Federation of Labor
+Who
+Samuel Gompers, White male workers
+Why
+Better working conditions
+What
+Very large union, did not allow female or immigrant workers to join. Wasn't very political, largely just peaceful mediation for higher wages, better conditions, shorter hours. Organized along craft lines, like a guild. 
+Where
+U.S.
+When
+1886-1955 (technically never ended since it merged with CIO)
+Significance
+Longest-lasting union we learned about, didn't suffer major setbacks like the Haymarket Affair that destroyed other unions like the KoL. Took up the KoL's fight but dropped African Americans and women.
+
+Haymarket Riot
+Who
+Knights of Labor
+Why
+Big business trying to preserve their interests, minimize unions
+What
+Peaceful protest that was getting broken up by police, an anarchist threw a bomb at the police and violence ensued. Allowed big business to paint unions as collections of anarchists and socialists, 
+Where
+Chicago
+When
+1886
+Significance
+Effectively destroys the KoL, many members end up joining the AFL instead.
+
+Chinese Exclusion Act
+Who
+Congress, Chinese immigrants
+Why
+Nativism, strong presence of native-born laborers in politics
+What
+Banning of Chinese immigration until 1943
+Where
+U.S.
+When
+1882-1943
+Significance
+Showed extreme nativist sentiment, targeted one nation's people specifically
+
+NAWSA
+Who
+Carrie Catt, Susan Anthony, Cady Stanton
+Why
+Needed more influence to get women's suffrage through
+What
+Merger between the two largest women's suffrage groups. After failing to get a federal bill through, they started going on a state-by-state basis. Segregated movement after the 15th amendment.
+Where
+Washington DC
+When
+1890-1920
+Significance
+Got the 19th Amendment through in 1920. Didn't touch African American civil rights bc they resented the 15th Amendment for leaving them out.
+
+Plessy v. Furgesson
+Who
+Supreme Court, African Americans, Homer Plessy
+Why
+For Plessy: To test the limits of segregation and get it declared unlawful
+For Furgesson: Maintain the racist system in the South
+What
+Plessy was a relatively well-off shoemaker, boarded a whites-only train, arrested. Appeals that this is not equal protection under law, citing 13th & 14th amendments.
+Where
+U.S.
+When
+1896
+Significance
+Established the idea of "separate but equal," allowed many states to double down on Jim Crow.

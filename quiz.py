@@ -37,6 +37,8 @@ def quiz(facts, categories = ["Who", "What", "Where", "When", "Why", "Significan
     for topic, category in questions:
         questionCounter += 1
         question = f"\n📘 {topic} — {category}:"
+
+        category = category[0].upper() + category[1:]
         
         if category.lower() == "when":
             correct_answer = facts[topic].get(category, "Couldn't find for topic " + topic)
@@ -65,6 +67,7 @@ if __name__ == "__main__":
         facts = load_facts("ff.json")
         if (len(sys.argv) > 1):
             quiz(facts, [sys.argv[1]])
-        quiz(facts)
+        else:
+            quiz(facts)
     else:
         print("Error: 'ff.json' file not found.")
